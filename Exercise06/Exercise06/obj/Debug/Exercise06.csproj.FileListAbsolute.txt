@@ -1,0 +1,2 @@
+D:\Projects\Tests\2021\CreditCard\Exercise06\Exercise06\obj\Debug\Exercise06.csprojAssemblyReference.cache
+D:\Projects\Tests\2021\CreditCard\Exercise06\Exercise06\obj\Debug\Exercise06.csproj.CoreCompileInputs.cache
